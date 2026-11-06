@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 28" width="800" height="28" role="presentation">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d3bc8e" stop-opacity="0"/><stop offset=".5" stop-color="#d3bc8e"/><stop offset="1" stop-color="#d3bc8e" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+.dot{opacity:0;animation:run 5s ease-in-out infinite}
+@keyframes run{0%{transform:translateX(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(800px);opacity:0}}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 6s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.tw{animation:tw 2.4s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+</style>
+<rect x="0" y="13" width="800" height="2" fill="url(#g)"/>
+<g transform="translate(400,14)"><path class="spin" d="M0,-11 Q2.0,-2.0 11,0 Q2.0,2.0 0,11 Q-2.0,2.0 -11,0 Q-2.0,-2.0 0,-11Z" fill="#f3e5ab"/></g>
+<g transform="translate(345,14)"><path class="tw" d="M0,-6 Q1.1,-1.1 6,0 Q1.1,1.1 0,6 Q-1.1,1.1 -6,0 Q-1.1,-1.1 0,-6Z" fill="#d3bc8e"/></g>
+<g transform="translate(455,14)"><path class="tw" d="M0,-6 Q1.1,-1.1 6,0 Q1.1,1.1 0,6 Q-1.1,1.1 -6,0 Q-1.1,-1.1 0,-6Z" fill="#d3bc8e" style="animation-delay:-1.2s"/></g>
+<g transform="translate(300,14)"><path class="tw" d="M0,-3.5 Q0.6,-0.6 3.5,0 Q0.6,0.6 0,3.5 Q-0.6,0.6 -3.5,0 Q-0.6,-0.6 0,-3.5Z" fill="#d3bc8e" style="animation-delay:-.6s"/></g>
+<g transform="translate(500,14)"><path class="tw" d="M0,-3.5 Q0.6,-0.6 3.5,0 Q0.6,0.6 0,3.5 Q-0.6,0.6 -3.5,0 Q-0.6,-0.6 0,-3.5Z" fill="#d3bc8e" style="animation-delay:-1.8s"/></g>
+<circle class="dot" cx="0" cy="14" r="3" fill="#fff"/>
+</svg>
