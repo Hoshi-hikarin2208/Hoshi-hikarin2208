@@ -1,21 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4255,50:5a6280,100:d3bc8e&height=240&section=header&text=Renze%20Daneille%20P.%20Rivero&fontSize=42&fontColor=ece5d8&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20Adventurer%27s%20Portfolio%20%E2%9C%A6%20Traveler%20of%20the%20Code%20Realm&descAlignY=58&descSize=18" alt="header" width="100%"/>
+<img src="starfield.svg" alt="Renze Daneille P. Rivero — Portfolio" width="100%"/>
 
 <a href="https://github.com/Hoshi-hikarin2208">
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&pause=1200&color=D3BC8E&center=true&vCenter=true&width=700&lines=%E2%9C%A6+Welcome%2C+Traveler!+%E2%9C%A6;BSIT+Student+%7C+Adventurer+Rank+10+%F0%9F%8E%93;Web+Developer+of+the+Realm+%F0%9F%8C%90;Minecraft+Plugin+%26+Mod+Crafter+%E2%9B%8F%EF%B8%8F;The+journey+never+ends...+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
+
+<img src="walker.svg" alt="A chibi adventurer walking across the screen" width="100%"/>
+
+<br/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Hoshi-hikarin2208&label=Travelers%20Visited&color=d3bc8e&labelColor=3b4255&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/Hoshi-hikarin2208?style=for-the-badge&logo=github&label=Companions&color=d3bc8e&labelColor=3b4255)
 ![Status](https://img.shields.io/badge/Status-Exploring%20Teyvat-d3bc8e?style=for-the-badge&labelColor=3b4255)
 
+<br/>
+
+### ✦ Quick Travel Menu ✦
+
+<a href="#about"><img src="https://img.shields.io/badge/✦_ABOUT-3b4255?style=for-the-badge" alt="About"/></a>
+<a href="#profile"><img src="https://img.shields.io/badge/📜_PROFILE-3b4255?style=for-the-badge" alt="Profile"/></a>
+<a href="#elements"><img src="https://img.shields.io/badge/🌌_ELEMENTS-3b4255?style=for-the-badge" alt="Elements"/></a>
+<a href="#talents"><img src="https://img.shields.io/badge/⚔️_TALENTS-3b4255?style=for-the-badge" alt="Talents"/></a>
+<br/>
+<a href="#quests"><img src="https://img.shields.io/badge/🗺️_QUESTS-3b4255?style=for-the-badge" alt="Quests"/></a>
+<a href="#records"><img src="https://img.shields.io/badge/📊_RECORDS-3b4255?style=for-the-badge" alt="Records"/></a>
+<a href="#chest"><img src="https://img.shields.io/badge/🎁_SECRET_CHEST-3b4255?style=for-the-badge" alt="Secret Chest"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/🕊️_CONTACT-3b4255?style=for-the-badge" alt="Contact"/></a>
+
 </div>
 
----
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
+<a id="about"></a>
 ## ✦ Welcome, Traveler!
 
 Welcome to my personal portfolio! I'm **Renze Daneille P. Rivero**, a **Bachelor of Science in Information Technology (BSIT)** student passionate about programming, web development, and creating things through code.
@@ -24,8 +43,23 @@ I enjoy building websites, experimenting with different technologies, developing
 
 > *"Every great journey begins with a single line of code."* ✦
 
----
+<details>
+<summary><b>✨ Click for a quick summary of who I am</b></summary>
+<br/>
 
+- 🎓 **BSIT Student**
+- 💻 Interested in **Front-End** and **Back-End** Development
+- 🌐 Passionate about **Web Development**
+- 🎮 Enjoys creating **small projects and games**
+- ⛏️ Experienced in handling **Minecraft servers**
+- 🔧 Creates **Minecraft plugins and mods**
+- 🚀 Always learning, experimenting, and improving my skills
+
+</details>
+
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
+
+<a id="profile"></a>
 ## 📜 Adventurer's Profile
 
 <div align="center">
@@ -42,8 +76,9 @@ I enjoy building websites, experimenting with different technologies, developing
 
 </div>
 
----
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
+<a id="elements"></a>
 ## 🌌 Elemental Resonance
 
 *Every adventurer wields different elements. Here are mine:*
@@ -59,10 +94,15 @@ I enjoy building websites, experimenting with different technologies, developing
 ![Hydro](https://img.shields.io/badge/💧_HYDRO-Always_Learning-4cc2f1?style=for-the-badge&labelColor=3b4255)
 ![Cryo](https://img.shields.io/badge/❄️_CRYO-Programming_Challenges-9fd6e3?style=for-the-badge&labelColor=3b4255)
 
+<br/>
+
+<img src="constellation.svg" alt="Constellation of skills: Front-End, Back-End, Minecraft Dev, Game Dev, Experiments, Always Learning, Programming Challenges" width="100%"/>
+
 </div>
 
----
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
+<a id="talents"></a>
 ## ⚔️ Talents
 
 <div align="center">
@@ -115,8 +155,9 @@ I enjoy building websites, experimenting with different technologies, developing
 
 </details>
 
----
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
+<a id="quests"></a>
 ## 🗺️ Quest Log
 
 I enjoy creating projects that allow me to learn, experiment, and turn ideas into working applications.
@@ -136,8 +177,9 @@ I enjoy creating projects that allow me to learn, experiment, and turn ideas int
 
 </div>
 
----
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
+<a id="records"></a>
 ## 📊 Adventure Records
 
 <div align="center">
@@ -151,8 +193,58 @@ I enjoy creating projects that allow me to learn, experiment, and turn ideas int
 
 </div>
 
----
+<details>
+<summary><b>📈 Click to open my contribution activity graph</b></summary>
+<br/>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hoshi-hikarin2208&bg_color=2a3042&color=ece5d8&line=d3bc8e&point=ffffff&area=true&area_color=d3bc8e&hide_border=true&title_color=d3bc8e" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+</details>
+
+<details>
+<summary><b>🏆 Click to open my trophy case</b></summary>
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hoshi-hikarin2208&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+
+</div>
+
+</details>
+
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
+
+<a id="chest"></a>
+## 🎁 The Secret Chest
+
+<details>
+<summary><b>🗝️ You found a hidden chest, click to open it!</b></summary>
+<br/>
+
+<div align="center">
+
+### ✦ Congratulations, Traveler! ✦
+
+*You scrolled all the way down to find this.*
+
+**Reward: one friendly collaborator invitation** 🎉
+
+If you like building websites, small games, or Minecraft plugins and mods, let's connect and make something together.
+
+[![Say Hi](https://img.shields.io/badge/✦_SEND_A_MESSAGE-d3bc8e?style=for-the-badge&labelColor=3b4255&color=d3bc8e)](mailto:renzerivero08@gmail.com)
+
+</div>
+
+</details>
+
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
+
+<a id="contact"></a>
 ## 🕊️ Send a Message in a Bottle
 
 I'm always interested in connecting with fellow developers, learning from others, and sharing projects.
@@ -179,11 +271,13 @@ I'm always interested in connecting with fellow developers, learning from others
 
 </details>
 
----
+<div align="center"><img src="divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
 ✦ *"May you find your way through the code, Traveler."* ✦
+
+<a href="#about"><img src="https://img.shields.io/badge/⬆️_BACK_TO_TOP-d3bc8e?style=for-the-badge&labelColor=3b4255&color=d3bc8e" alt="Back to top"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d3bc8e,50:5a6280,100:3b4255&height=120&section=footer" alt="footer" width="100%"/>
 
